@@ -1,0 +1,14 @@
+/* External CSS Styles */
+
+body {
+    background-color: #f9f9f9;
+}
+
+a {
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #ff5722;
+}
